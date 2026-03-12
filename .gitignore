@@ -30,3 +30,7 @@ go.work.sum
 # Editor/IDE
 # .idea/
 # .vscode/
+config.yaml.bak
+.gitignore
+bin/.DS_Store
+.DS_Store
